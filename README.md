@@ -5,9 +5,9 @@
 <span/>
 
 ###
-- ✨ Am here, Arshad,
-- :zap: Forging bug-free pathways since 2020
-- :speech_balloon: Driving MERN projects to success.
+ ✨ Am here, Arshad, <br>
+ :zap: Forging bug-free pathways since 2020<br>
+ :speech_balloon: Driving MERN projects to success.
 ###
 ## I code with
 <img align="right" height="150" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif"  />
