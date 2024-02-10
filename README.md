@@ -3,11 +3,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39D353&center=true&random=false&width=435&lines=I+am+Arshad;welcome+to+my+Github;Full+Stack+Developer;Node.js_React.js_MongoDB_Express.js)](https://git.io/typing-svg)
 <span/>
-<div align='center'>
+
+###
 - ✨ Am here, Arshad,
 - :zap: Forging bug-free pathways since 2020
 - :speech_balloon: Driving MERN projects to success.
-<div/>
+###
 ## I code with
 <img align="right" height="150" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif"  />
 
