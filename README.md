@@ -3,6 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39D353&center=true&random=false&width=435&lines=I+am+Arshad;welcome+to+my+Github;Full+Stack+Developer;Node.js_React.js_MongoDB_Express.js)](https://git.io/typing-svg)
 <span/>
+
 - ✨ Am here, Arshad,
 - :zap: Forging bug-free pathways since 2020
 - :speech_balloon: Driving MERN projects to success.
@@ -54,8 +55,9 @@
 
 ###
 <br>
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arshadakl&theme=merko&hide_border=false&include_all_commits=true&count_private=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshadakl&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
 </div>
+
 ###
