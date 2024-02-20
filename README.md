@@ -11,7 +11,10 @@
 ###
 ## I code with
 <!-- <img align="right" height="150" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif"  /> -->
+<div align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,mongodb,express,typescript,react,html,css,tailwind,bootstrap,git,redux,aws,docker,figma,npm,postman,firebase,mysql,jquery)](https://github.com/arshadakl?tab=repositories)
+</div>
 
 <!-- <a href="https://github.com/arshadakl?tab=repositories"> 
 
