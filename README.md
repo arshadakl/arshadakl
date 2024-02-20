@@ -12,13 +12,9 @@
 ## I code with
 <img align="right" height="150" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif"  />
 
-
 <a href="https://github.com/arshadakl?tab=repositories"> 
 
 <div align="left">
-
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,mongodb,express,typescript,react,html,css,tailwind,bootstrap,git,redux,aws,docker,figma,npm,postman,firebase,mysql,jquery)](https://github.com/arshadakl?tab=repositories)
-<!-- 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
@@ -55,7 +51,7 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" alt="jquery logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
 </div>
 <a/>
 
