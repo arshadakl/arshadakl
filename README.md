@@ -16,7 +16,7 @@
 
 Full-stack engineer with an offensive security mindset. I build production-grade web applications and hunt vulnerabilities in the wild — sometimes the same system, different hat.
 
-Recognized by **CERT-In** (Ministry of Electronics & IT, Govt. of India) in the national **Cybersecurity Hall of Fame** for identifying and responsibly disclosing critical vulnerabilities in government-linked systems — exposure that put 2 lakh+ individuals at risk, including Aadhaar details, academic records, and personal identity data.
+Recognized by **CERT-In** (Ministry of Electronics & IT, Govt. of India) in the national **Cybersecurity Hall of Fame** for identifying and responsibly disclosing critical vulnerabilities in government linked systems exposure that put 2 lakh+ individuals at risk, including Aadhaar details, academic records, and personal identity data.
 
 > *"Good code isn't only about features or design — it's about trust and safety."*
 
