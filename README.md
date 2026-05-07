@@ -26,7 +26,7 @@ Recognized by **CERT-In** (Ministry of Electronics & IT, Govt. of India) in the 
 
 ## Stack
 
-[![Skills](https://skillicons.dev/icons?i=ts,nextjs,react,express,nestjs,nodejs,tailwind,mongodb,postgres,docker,git,figma,python,linux,cloudflare)](https://github.com/arshadakl)
+[![Skills](https://skillicons.dev/icons?i=ts,nextjs,react,express,nestjs,nodejs,tailwind,mongodb,postgres,docker,git,figma,linux,cloudflare,aws,nginx,)](https://github.com/arshadakl)
 
 ---
 
