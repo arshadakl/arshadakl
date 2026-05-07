@@ -45,6 +45,6 @@ Recognized by **CERT-In** (Ministry of Electronics & IT, Govt. of India) in the 
 ---
 
 <div align="center">
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=arshadakl&label=Profile%20views&color=0e75b6&style=flat" alt="arshadakl" /> </p>
+  <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=arshadakl&label=Profile%20views&color=0e75b6&style=flat" alt="arshadakl" /> </p> -->
   <sub>If something's broken, I probably already know why.</sub>
 </div>
