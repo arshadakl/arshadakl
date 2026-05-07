@@ -1,7 +1,7 @@
 <div align="center">
 
 # Arshad A.
-### Security researcher. Full-stack engineer.
+### Software engineer. Security researcher.
 *Spent years learning how systems fail. Now I build ones that don't.*
 
 [![Portfolio](https://img.shields.io/badge/arshadakl.in-000000?style=for-the-badge&logo=safari&logoColor=white)](https://www.arshadakl.in/)
