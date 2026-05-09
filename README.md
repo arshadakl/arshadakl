@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/arshadakl.in-000000?style=for-the-badge&logo=safari&logoColor=white)](https://www.arshadakl.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshad-akl/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AklArshad)
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=arshadakl&label=Profile%20views&color=0e75b6&style=flat" alt="arshadakl" /> </p>
 </div>
 
 
