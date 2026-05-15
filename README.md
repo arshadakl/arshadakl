@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # Arshad A.
 ### Software engineer. Security researcher.
@@ -11,8 +11,31 @@
 </div>
 
 
----
+--- -->
 
+<div align="center">
+
+# Arshad A.
+### Software engineer. Security researcher.
+*Spent years learning how systems fail. Now I build ones that don't.*
+
+*My portfolio, three ways to access it:*
+| command | interface |
+|---|---|
+| `$ open` [`arshadakl.in`](https://arshadakl.in) | `# browser` |
+| `$ ssh arshadakl.in` | `# terminal` |
+| `$ curl arshadakl.in` | `# curl` |
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshad-akl/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AklArshad)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arshadakl&label=Profile%20views&color=0e75b6&style=flat" alt="arshadakl" />
+</p>
+
+</div>
+
+---
 
 
 ## About
