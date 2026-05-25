@@ -60,9 +60,9 @@ Recognized by **CERT-In** (Ministry of Electronics & IT, Govt. of India) in the 
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=arshadakl&theme=transparent&hide_border=true" height="165" />
-  <br/>
+  <!-- <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=arshadakl&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshadakl&layout=compact&langs_count=6&theme=transparent&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshadakl&layout=compact&langs_count=6&theme=transparent&hide_border=true" height="165" /> -->
 </div>
 
 ---
