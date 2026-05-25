@@ -22,7 +22,7 @@
 *My portfolio, three ways to access it:*
 | command | interface |
 |---|---|
-| `$ open` [`arshadakl.in`](https://arshadakl.in) | `# browser` |
+| `$` [`arshadakl.in`](https://arshadakl.in) | `# browser` |
 | `$ ssh arshadakl.in` | `# terminal` |
 | `$ curl arshadakl.in` | `# curl` |
 
