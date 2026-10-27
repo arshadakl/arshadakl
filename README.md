@@ -19,14 +19,9 @@
 ### Software engineer. Security researcher.
 *Spent years learning how systems fail. Now I build ones that don't.*
 
-*My portfolio, four ways to access it:*
+*Explore my work:*
 
-| command | interface |
-|---|---|
-| `$` [`arshadakl.in`](https://arshadakl.in) | `# browser` |
-| `$ ssh arshadakl.in` | `# terminal` |
-| `$ curl arshadakl.in` | `# curl` |
-| `⛏️` [`minecraft.arshadakl.in`](http://minecraft.arshadakl.in/) | `# game` |
+`$` [Portfolio](https://arshadakl.in) · `$` [Blog](https://blog.arshadakl.in/)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshad-akl/)
